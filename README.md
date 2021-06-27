@@ -1,5 +1,5 @@
-<h1 align="center">Heyy 👋, I'm Sayak</h1>
-<h3 align="center">A FRONT-END DEVELOPER & FLUTTER ENTHUSIAST</h3>
+<h1 align="center">Heyy <img src="https://github.com/Sayak-77/tenor/blob/main/fingers-crossed-39.gif" width="65">, I'm Sayak</h1>
+<h3 align="left">A FRONT-END DEVELOPER & FLUTTER ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayak-77&label=Profile%20views&color=0e75b6&style=flat" alt="sayak-77" /> </p>
 
