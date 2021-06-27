@@ -1,5 +1,5 @@
 <h1 align="center">Heyy 👋, I'm Sayak</h1>
-<h3 align="center">A FRONT-END DEVELOPER and FLUTTER ENTHUSIAST</h3>
+<h3 align="center">A FRONT-END DEVELOPER & FLUTTER ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayak-77&label=Profile%20views&color=0e75b6&style=flat" alt="sayak-77" /> </p>
 
