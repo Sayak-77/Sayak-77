@@ -36,4 +36,4 @@
 <a href="https://reactjs.org/" target="_blank"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayak-77&show_icons=true&locale=en" alt="sayak-77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayak-77&theme=chartreuse-dark&layout=compact" alt="sayak-77" /></p>
