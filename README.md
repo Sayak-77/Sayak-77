@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayak-77&label=Profile%20views&color=0e75b6&style=flat" alt="sayak-77" /> </p>
 
-- ⚖️ Currently I am working on personal projects which includes **ANdroid Development**
+- ⚖️ Currently I am working on personal projects which includes **Android Development**
 
 - 🌱 I’m currently learning **Data Structures**
 
