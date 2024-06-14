@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 🗡️ I would like to collaborate on **MERN STACK & ANDROID DEVELOPMENT **
+- 🗡️ I would like to collaborate on **MERN STACK & ANDROID DEVELOPMENT**
 
 - ⚡I'm aiming to be a **Full Stack Developer**
 
