@@ -1,21 +1,21 @@
 <h1 align="center">Heyy <img src="https://github.com/Sayak-77/tenor/blob/master/fingers-crossed-39.gif" width="65">, I'm Sayak</h1>
-<h3 align="left">A MERN STACK DEVELOPER & FLUTTER ENTHUSIAST</h3>
+<h3 align="left">A MERN STACK DEVELOPER || C++ Programmer || Flutter Enthusiast || THREE.JS nerd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayak-77&label=Profile%20views&color=0e75b6&style=flat" alt="sayak-77" /> </p>
 
-- ⚖️ Currently I am working on personal projects which includes **Android Development**
+- ⚖️ Currently I am working on personal projects which includes **Django and Next.JS**
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 🗡️ I would like to collaborate on **Open-Source and Android Development Projects**
+- 🗡️ I would like to collaborate on **MERN STACK & ANDROID DEVELOPMENT **
 
 - ⚡I'm aiming to be a **Full Stack Developer**
 
-- 💬 Ask me about **Flutter,HTML/CSS and Javascript**
+- 💬 Ask me about **React/Node,C++,Java**
 
 - 📫 How to reach me **sayakascent@gmail.com**
 
-- 😼I'm much **into anime and cats are my fav.**
+- 😼I'm much **into anime and cats are mystical creatures.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
